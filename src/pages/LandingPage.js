@@ -1,8 +1,9 @@
 import React, {Component} from 'react'
+import SignUpPage from './SignUpPage'
 
 class LandingPage extends Component{
     render() {
-        return(<p>This is the landing page component</p>)
+        return(<div><p>This is the landing page component</p><SignUpPage/></div>)
     }
 }
 
