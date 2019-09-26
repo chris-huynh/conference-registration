@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './styles/App.css';
 import LandingPage from "./pages/LandingPage";
 import BoilerPlate from './pages/BoilerPlate'
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
