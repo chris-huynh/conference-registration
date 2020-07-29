@@ -1,3 +1,28 @@
+# Conference Registration Front-End
+
+## Status
+**Currently this project is inactive and will resume development August 2020.** 
+
+The backend functions for this project are complete and can be viewed here:
+[Back End Functions](https://github.com/chris-huynh/conference-registration-functions)
+
+## Description
+This project is the UI/Front-end of the conference registration app. Users/attendees will be able to create profiles, purchase tickets, and register for breakout sessions/workshops for a generic conference.
+
+## Roadmap
+Future:
+ - Create login and sign up screen
+ - Add in signing up for workshops
+ - Add in profile editing
+ - Add in ticket purchasing
+
+Beyond the future:
+ - Admin UI
+ - Browsing of other users
+ - Solution to the Halting Problem
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
